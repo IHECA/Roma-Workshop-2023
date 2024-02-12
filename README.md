@@ -1,5 +1,6 @@
-# ROMA Workshop 2023
+# ROMA Workshop
 Using RWE for Research-Oriented Market Access for High-Cost Therapies
+Materials are up to date as of February, 2024
 
 ### Are you new to R?
 R is one of the most popular programing languages in use, and has a massive community and open source custom packages. 
